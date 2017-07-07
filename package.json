@@ -1,0 +1,32 @@
+{
+  "name": "autoload-exemplo-php",
+  "description": "Exemplo e diferenca de utilizar autoload com php usando composer e sem composer.",
+  "readmeFilename": "README.md" ,
+  "keywords": [
+    "autoload",
+    "php",
+    "composer"
+  ],
+  "tags": [
+    "autoload",
+    "php",
+    "composer"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Fabio Rocha de Farias",
+    "email": "fabio@fabiofarias.com.br",
+    "homepage": "http://www.fabiofarias.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frf/autoload-php"
+  },
+  "dependencies":{
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index.php"
+}
